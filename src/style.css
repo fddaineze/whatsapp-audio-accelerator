@@ -1,0 +1,10 @@
+.timesButtonOne,
+.timesButtonTwo {
+    font-size: 1em;
+    padding: 0px 0.5em 0.2em;
+    color: #919191;
+    font-weight: bold;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
