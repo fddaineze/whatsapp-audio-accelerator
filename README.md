@@ -36,5 +36,5 @@ Como um adicional, decidi adicionar a classe "Dark" ao body, que atualmente já 
 document.body.className = 'web dark';
 ```
 
-A Class usada para adicionar os botões é a class utilizada no header de perfil
-> _1QUKR
+O Código busca o header da div "side", que recebe seu perfil e conversas do whatsapp e adiciona os botões ao lado dos botões já existentes
+> div id="side" > header
