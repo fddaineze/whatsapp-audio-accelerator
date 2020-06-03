@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "WhatsApp Addons",
+    "description": "Adiciona funções ao whatsapp web",
+    "version": "1.0",
+    "content_scripts": [
+        {
+            "matches": [
+                "https://web.whatsapp.com/"
+            ],
+            "css": [
+                "src/style.css"
+            ],
+            "js": [
+                "src/script.js"
+            ]
+        }
+    ],
+    "browser_action": {
+        "default_popup": "index.html"
+    }
+}
