@@ -8,3 +8,8 @@
     border: none;
     cursor: pointer;
 }
+.accelered {
+    border: 1px solid green;
+    border-radius: 5px;
+    padding: 3px;
+}
