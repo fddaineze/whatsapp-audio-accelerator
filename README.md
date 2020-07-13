@@ -1,8 +1,5 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/fddaineze/whatsapp-audio-accelerator)
-![GitHub issues](https://img.shields.io/github/issues/fddaineze/whatsapp-audio-accelerator.svg)
-![GitHub forks](https://img.shields.io/github/forks/fddaineze/whatsapp-audio-accelerator.svg)
 ![GitHub stars](https://img.shields.io/github/stars/fddaineze/whatsapp-audio-accelerator.svg)
-![GitHub contributors](https://img.shields.io/github/contributors/fddaineze/whatsapp-audio-accelerator.svg)
 ![last commit badge](https://badgen.net/github/last-commit/fddaineze/whatsapp-audio-accelerator)
 ![license badge](https://badgen.net/github/license/fddaineze/whatsapp-audio-accelerator)
 ![commits badge](https://badgen.net/github/commits/fddaineze/whatsapp-audio-accelerator)
