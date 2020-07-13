@@ -1,5 +1,6 @@
 ![last commit badge](https://badgen.net/github/last-commit/fddaineze/whatsapp-audio-accelerator) ![license badge](https://badgen.net/github/license/fddaineze/whatsapp-audio-accelerator) ![commits badge](https://badgen.net/github/commits/fddaineze/whatsapp-audio-accelerator) ![github badge](https://badgen.net/badge/icon/github?icon=github&label)
 
+<img src="print.png" alt="demonstração de tela">
 
 ## Whatsapp Audio Accelerator
 
